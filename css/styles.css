@@ -1,0 +1,20 @@
+:root{
+--color: #3333;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: red;
+}
+
+.nav{
+
+}
+.nav-menu{
+display: flex;
+}
+.nav-menu__item{
+
+}
+.nav-menu__link{
+
+}
